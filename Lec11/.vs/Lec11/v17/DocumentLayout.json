@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\leona\\OneDrive\\Documents\\Practica4_Grupo4\\Lec11\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|c:\\users\\leona\\onedrive\\documents\\practica4_grupo4\\lec11\\practica4_webapp\\views\\chistesapp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|solutionrelative:practica4_webapp\\views\\chistesapp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|c:\\users\\leona\\onedrive\\documents\\practica4_grupo4\\lec11\\practica4_webapp\\scripts\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|solutionrelative:practica4_webapp\\scripts\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 55,
           "Children": [
             {
               "$type": "Bookmark",
@@ -230,6 +239,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documents\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Views\\ChistesApp\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practica4_WebApp\\Views\\ChistesApp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documents\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Views\\ChistesApp\\Index.cshtml",
+              "RelativeToolTip": "Practica4_WebApp\\Views\\ChistesApp\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T06:27:40.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documents\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Scripts\\app.js",
+              "RelativeDocumentMoniker": "Practica4_WebApp\\Scripts\\app.js",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documents\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Scripts\\app.js",
+              "RelativeToolTip": "Practica4_WebApp\\Scripts\\app.js",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-08T06:22:39.294Z",
+              "EditorCaption": ""
             }
           ]
         },

@@ -12,8 +12,8 @@ namespace WebAPI
         {
 			var container = new UnityContainer();
 
-            container.RegisterType<IProductRepository, ProductRepository>();
-            container.RegisterType<IProductService, ProductService>();
+            container.RegisterType<IChisteRepository, ChisteRepository>();
+            container.RegisterType<IChisteService, ChisteService>();
 
             GlobalConfiguration.Configuration.DependencyResolver = new UnityDependencyResolver(container);
         }
