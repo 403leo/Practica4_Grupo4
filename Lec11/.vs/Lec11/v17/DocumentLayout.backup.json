@@ -1,14 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\leona\\OneDrive\\Documents\\Practica4_Grupo4\\Lec11\\",
+  "WorkspaceRootPath": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|c:\\users\\leona\\onedrive\\documents\\practica4_grupo4\\lec11\\practica4_webapp\\views\\chistesapp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|c:\\users\\cesar\\source\\repos\\practica4_grupo4\\lec11\\webapi\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|c:\\users\\cesar\\source\\repos\\practica4_grupo4\\lec11\\webapi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|c:\\users\\cesar\\source\\repos\\practica4_grupo4\\lec11\\webapi\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|c:\\users\\cesar\\source\\repos\\practica4_grupo4\\lec11\\webapi\\controllers\\datocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\datocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|c:\\users\\cesar\\source\\repos\\practica4_grupo4\\lec11\\webapi\\controllers\\chistecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\chistecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|c:\\users\\cesar\\source\\repos\\practica4_grupo4\\lec11\\webapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|c:\\users\\cesar\\source\\repos\\practica4_grupo4\\lec11\\practica4_webapp\\scripts\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|solutionrelative:practica4_webapp\\scripts\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|c:\\users\\cesar\\source\\repos\\practica4_grupo4\\lec11\\practica4_webapp\\views\\chistesapp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|solutionrelative:practica4_webapp\\views\\chistesapp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|c:\\users\\leona\\onedrive\\documents\\practica4_grupo4\\lec11\\practica4_webapp\\scripts\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|solutionrelative:practica4_webapp\\scripts\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|c:\\users\\cesar\\source\\repos\\practica4_grupo4\\lec11\\practica4_webapp\\controllers\\datosappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|solutionrelative:practica4_webapp\\controllers\\datosappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|c:\\users\\cesar\\source\\repos\\practica4_grupo4\\lec11\\practica4_webapp\\scripts\\appdato.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|solutionrelative:practica4_webapp\\scripts\\appdato.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|c:\\users\\cesar\\source\\repos\\practica4_grupo4\\lec11\\practica4_webapp\\views\\datosapp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|solutionrelative:practica4_webapp\\views\\datosapp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|c:\\users\\cesar\\source\\repos\\practica4_grupo4\\lec11\\webapi\\repositories\\datorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\repositories\\datorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,16 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 55,
+          "SelectedChildIndex": 57,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -35,6 +67,14 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
             },
             {
               "$type": "Bookmark",
@@ -83,6 +123,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
@@ -238,32 +282,166 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documents\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Views\\ChistesApp\\Index.cshtml",
-              "RelativeDocumentMoniker": "Practica4_WebApp\\Views\\ChistesApp\\Index.cshtml",
-              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documents\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Views\\ChistesApp\\Index.cshtml",
-              "RelativeToolTip": "Practica4_WebApp\\Views\\ChistesApp\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T06:27:40.274Z",
+              "Title": "UnityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\WebAPI\\App_Start\\UnityConfig.cs",
+              "RelativeDocumentMoniker": "WebAPI\\App_Start\\UnityConfig.cs",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\WebAPI\\App_Start\\UnityConfig.cs",
+              "RelativeToolTip": "WebAPI\\App_Start\\UnityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:26:02.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\WebAPI\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WebAPI\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\WebAPI\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WebAPI\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:26:00.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\WebAPI\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "WebAPI\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\WebAPI\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "WebAPI\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:25:58.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChisteController.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\WebAPI\\Controllers\\ChisteController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ChisteController.cs",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\WebAPI\\Controllers\\ChisteController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ChisteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:18:33.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatoController.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\WebAPI\\Controllers\\DatoController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\DatoController.cs",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\WebAPI\\Controllers\\DatoController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\DatoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:24:51.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\WebAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "WebAPI\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\WebAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "WebAPI\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:22:35.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "app.js",
-              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Documents\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Scripts\\app.js",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Scripts\\app.js",
               "RelativeDocumentMoniker": "Practica4_WebApp\\Scripts\\app.js",
-              "ToolTip": "C:\\Users\\leona\\OneDrive\\Documents\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Scripts\\app.js",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Scripts\\app.js",
               "RelativeToolTip": "Practica4_WebApp\\Scripts\\app.js",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-08T06:22:39.294Z",
+              "WhenOpened": "2024-12-10T23:22:21.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatosAppController.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Controllers\\DatosAppController.cs",
+              "RelativeDocumentMoniker": "Practica4_WebApp\\Controllers\\DatosAppController.cs",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Controllers\\DatosAppController.cs",
+              "RelativeToolTip": "Practica4_WebApp\\Controllers\\DatosAppController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:21:48.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appDato.js",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Scripts\\appDato.js",
+              "RelativeDocumentMoniker": "Practica4_WebApp\\Scripts\\appDato.js",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Scripts\\appDato.js",
+              "RelativeToolTip": "Practica4_WebApp\\Scripts\\appDato.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-10T23:08:03.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\WebAPI\\Repositories\\DatoRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Repositories\\DatoRepository.cs",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\WebAPI\\Repositories\\DatoRepository.cs",
+              "RelativeToolTip": "WebAPI\\Repositories\\DatoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAADNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:00:57.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Views\\ChistesApp\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practica4_WebApp\\Views\\ChistesApp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Views\\ChistesApp\\Index.cshtml",
+              "RelativeToolTip": "Practica4_WebApp\\Views\\ChistesApp\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T23:00:30.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Views\\DatosApp\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practica4_WebApp\\Views\\DatosApp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Views\\DatosApp\\Index.cshtml",
+              "RelativeToolTip": "Practica4_WebApp\\Views\\DatosApp\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T23:00:23.304Z",
               "EditorCaption": ""
             }
           ]
