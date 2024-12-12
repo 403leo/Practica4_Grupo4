@@ -16,5 +16,9 @@ namespace WebAPI.Models
         [Required]
         [StringLength(100)]
         public string Description { get; set; }
+
+        [Required]
+        [StringLength(100)]
+        public string RespuestaCorrecta { get; set; } // Ahora es un string   
     }
 }

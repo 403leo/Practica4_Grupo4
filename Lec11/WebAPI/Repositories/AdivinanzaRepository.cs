@@ -10,10 +10,12 @@ namespace WebAPI.Repositories
     {
         private static List<Adivinanza> adivinanzas = new List<Adivinanza>
         {
-            new Adivinanza { Id = 1, Name = " Adivinanza 1", Description = "- Blanca por dentro, verde por fuera. Si quieres que te lo diga, espera.\r\n- El aguacate" },
-            new Adivinanza { Id = 2, Name = " Adivinanza 2", Description = "- Tengo hojas pero no soy árbol, tengo lomo pero no soy animal. ¿Qué soy?.\r\n- El libro" },
-            new Adivinanza { Id = 3, Name = " Adivinanza 3", Description = "- Cien amigos tengo, todos en fila, si uno se pierde, todos lo miran.\r\n- El peine" }
+            new Adivinanza { Id = 1, Name = "Adivinanza 1", Description = "¿Qué se encuentra una vez en un minuto, dos veces en un momento pero ninguno en cien años?", RespuestaCorrecta = "La letra m" },
+            new Adivinanza { Id = 2, Name = "Adivinanza 2", Description = "Blanca por dentro, verde por fuera. Si quieres que te lo diga, espera.", RespuestaCorrecta = "La pera" },
+            new Adivinanza { Id = 3, Name = "Adivinanza 3", Description = "Oro parece, plata no es. Quien no lo adivine, bien tonto es.", RespuestaCorrecta = "El plátano" }
         };
+
+
 
         public List<Adivinanza> GetAdivinanzas() => adivinanzas;
 

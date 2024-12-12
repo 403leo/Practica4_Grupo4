@@ -65,5 +65,23 @@ namespace WebAPI.Controllers
             _adivinanzaService.DeleteAdivinanza(id);
             return Ok();
         }
+
+        [HttpPost]
+        [Route("api/adivinanza/validar")]
+        public IHttpActionResult ValidarRespuesta(RespuestaUsuario respuesta)
+        {
+            var adivinanza = _adivinanzaService.GetById(respuesta.Id);
+            if (adivinanza == null)
+            {
+                return NotFound();
+            }
+
+            // Compara la respuesta del usuario con la respuesta correcta, ignorando mayúsculas/minúsculas
+            bool esCorrecto = string.Equals(adivinanza.RespuestaCorrecta.Trim(), respuesta.Respuesta.Trim(), StringComparison.OrdinalIgnoreCase);
+
+            return Ok(new { EsCorrecto = esCorrecto, RespuestaCorrecta = adivinanza.RespuestaCorrecta });
+        }
+
+
     }
 }

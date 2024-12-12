@@ -197,6 +197,7 @@
     <Compile Include="Models\Adivinanza.cs" />
     <Compile Include="Models\Chiste.cs" />
     <Compile Include="Models\Dato.cs" />
+    <Compile Include="Models\RespuestaUsuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\AdivinanzaRepository.cs" />
     <Compile Include="Repositories\DatoRepository.cs" />

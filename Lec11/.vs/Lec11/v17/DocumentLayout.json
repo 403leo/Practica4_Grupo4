@@ -1,64 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|c:\\users\\isylolxd\\onedrive\\documents\\visual studio 2022\\practica4_grupo4\\lec11\\practica4_webapp\\scripts\\appadivinanza.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|solutionrelative:practica4_webapp\\scripts\\appadivinanza.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|c:\\users\\isylolxd\\onedrive\\documents\\visual studio 2022\\practica4_grupo4\\lec11\\practica4_webapp\\views\\adivinanzasapp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|solutionrelative:practica4_webapp\\views\\adivinanzasapp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|c:\\users\\isylolxd\\onedrive\\documents\\visual studio 2022\\practica4_grupo4\\lec11\\practica4_webapp\\views\\datosapp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|solutionrelative:practica4_webapp\\views\\datosapp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|c:\\users\\isylolxd\\onedrive\\documents\\visual studio 2022\\practica4_grupo4\\lec11\\webapi\\services\\adivinanzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\adivinanzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|c:\\users\\isylolxd\\onedrive\\documents\\visual studio 2022\\practica4_grupo4\\lec11\\practica4_webapp\\controllers\\adivinanzasappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|solutionrelative:practica4_webapp\\controllers\\adivinanzasappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|c:\\users\\isylolxd\\onedrive\\documents\\visual studio 2022\\practica4_grupo4\\lec11\\practica4_webapp\\controllers\\datosappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|solutionrelative:practica4_webapp\\controllers\\datosappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|c:\\users\\isylolxd\\onedrive\\documents\\visual studio 2022\\practica4_grupo4\\lec11\\practica4_webapp\\controllers\\chistesappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|solutionrelative:practica4_webapp\\controllers\\chistesappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\practica4_webapp\\scripts\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|solutionrelative:practica4_webapp\\scripts\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|c:\\users\\isylolxd\\onedrive\\documents\\visual studio 2022\\practica4_grupo4\\lec11\\practica4_webapp\\scripts\\jquery-3.7.1.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|solutionrelative:practica4_webapp\\scripts\\jquery-3.7.1.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|c:\\users\\isylolxd\\onedrive\\documents\\visual studio 2022\\practica4_grupo4\\lec11\\practica4_webapp\\views\\chistesapp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|solutionrelative:practica4_webapp\\views\\chistesapp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|c:\\users\\isylolxd\\onedrive\\documents\\visual studio 2022\\practica4_grupo4\\lec11\\practica4_webapp\\scripts\\appdato.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{B4B286AB-6C99-49C5-ABFC-C3AD5B822EF8}|Practica4_WebApp\\Practica4_WebApp.csproj|solutionrelative:practica4_webapp\\scripts\\appdato.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|c:\\users\\isylolxd\\onedrive\\documents\\visual studio 2022\\practica4_grupo4\\lec11\\webapi\\services\\chisteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\chisteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|c:\\users\\isylolxd\\onedrive\\documents\\visual studio 2022\\practica4_grupo4\\lec11\\webapi\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\webapi\\repositories\\idatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10F4B99D-5DFF-4724-82B0-0E517E2C44C8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\repositories\\idatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\leona\\OneDrive\\Documents\\PRACTICA4_ISAAC\\Practica4_Grupo4\\Lec11\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -66,16 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 62,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
@@ -83,6 +18,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -266,6 +205,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
             },
             {
@@ -290,188 +233,11 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DatosAppController.cs",
-              "DocumentMoniker": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Controllers\\DatosAppController.cs",
-              "RelativeDocumentMoniker": "Practica4_WebApp\\Controllers\\DatosAppController.cs",
-              "ToolTip": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Controllers\\DatosAppController.cs",
-              "RelativeToolTip": "Practica4_WebApp\\Controllers\\DatosAppController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T16:02:28.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdivinanzasAppController.cs",
-              "DocumentMoniker": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Controllers\\AdivinanzasAppController.cs",
-              "RelativeDocumentMoniker": "Practica4_WebApp\\Controllers\\AdivinanzasAppController.cs",
-              "ToolTip": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Controllers\\AdivinanzasAppController.cs",
-              "RelativeToolTip": "Practica4_WebApp\\Controllers\\AdivinanzasAppController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T16:02:20.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ChistesAppController.cs",
-              "DocumentMoniker": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Controllers\\ChistesAppController.cs",
-              "RelativeDocumentMoniker": "Practica4_WebApp\\Controllers\\ChistesAppController.cs",
-              "ToolTip": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Controllers\\ChistesAppController.cs",
-              "RelativeToolTip": "Practica4_WebApp\\Controllers\\ChistesAppController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T16:01:49.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "jquery-3.7.1.min.js",
-              "DocumentMoniker": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Scripts\\jquery-3.7.1.min.js",
-              "RelativeDocumentMoniker": "Practica4_WebApp\\Scripts\\jquery-3.7.1.min.js",
-              "ToolTip": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Scripts\\jquery-3.7.1.min.js",
-              "RelativeToolTip": "Practica4_WebApp\\Scripts\\jquery-3.7.1.min.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-12T15:59:07.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Views\\AdivinanzasApp\\Index.cshtml",
-              "RelativeDocumentMoniker": "Practica4_WebApp\\Views\\AdivinanzasApp\\Index.cshtml",
-              "ToolTip": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Views\\AdivinanzasApp\\Index.cshtml",
-              "RelativeToolTip": "Practica4_WebApp\\Views\\AdivinanzasApp\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T15:58:34.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Views\\ChistesApp\\Index.cshtml",
-              "RelativeDocumentMoniker": "Practica4_WebApp\\Views\\ChistesApp\\Index.cshtml",
-              "ToolTip": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Views\\ChistesApp\\Index.cshtml",
-              "RelativeToolTip": "Practica4_WebApp\\Views\\ChistesApp\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T15:57:51.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appAdivinanza.js",
-              "DocumentMoniker": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Scripts\\appAdivinanza.js",
-              "RelativeDocumentMoniker": "Practica4_WebApp\\Scripts\\appAdivinanza.js",
-              "ToolTip": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Scripts\\appAdivinanza.js",
-              "RelativeToolTip": "Practica4_WebApp\\Scripts\\appAdivinanza.js",
-              "ViewState": "AgIAACoAAAAAAAAAAAAmwDYAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-12T15:57:03.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appDato.js",
-              "DocumentMoniker": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Scripts\\appDato.js",
-              "RelativeDocumentMoniker": "Practica4_WebApp\\Scripts\\appDato.js",
-              "ToolTip": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Scripts\\appDato.js",
-              "RelativeToolTip": "Practica4_WebApp\\Scripts\\appDato.js",
-              "ViewState": "AgIAABEAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-12T15:56:45.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Views\\DatosApp\\Index.cshtml",
-              "RelativeDocumentMoniker": "Practica4_WebApp\\Views\\DatosApp\\Index.cshtml",
-              "ToolTip": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Views\\DatosApp\\Index.cshtml",
-              "RelativeToolTip": "Practica4_WebApp\\Views\\DatosApp\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T15:55:12.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdivinanzaService.cs",
-              "DocumentMoniker": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\WebAPI\\Services\\AdivinanzaService.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Services\\AdivinanzaService.cs",
-              "ToolTip": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\WebAPI\\Services\\AdivinanzaService.cs",
-              "RelativeToolTip": "WebAPI\\Services\\AdivinanzaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T15:19:58.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ChisteService.cs",
-              "DocumentMoniker": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\WebAPI\\Services\\ChisteService.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Services\\ChisteService.cs",
-              "ToolTip": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\WebAPI\\Services\\ChisteService.cs",
-              "RelativeToolTip": "WebAPI\\Services\\ChisteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T15:19:50.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UnityConfig.cs",
-              "DocumentMoniker": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\WebAPI\\App_Start\\UnityConfig.cs",
-              "RelativeDocumentMoniker": "WebAPI\\App_Start\\UnityConfig.cs",
-              "ToolTip": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\WebAPI\\App_Start\\UnityConfig.cs",
-              "RelativeToolTip": "WebAPI\\App_Start\\UnityConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T08:00:50.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "app.js",
-              "DocumentMoniker": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Scripts\\app.js",
-              "RelativeDocumentMoniker": "Practica4_WebApp\\Scripts\\app.js",
-              "ToolTip": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\Practica4_WebApp\\Scripts\\app.js",
-              "RelativeToolTip": "Practica4_WebApp\\Scripts\\app.js",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA5wC4AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-12T08:14:10.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IDatoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\WebAPI\\Repositories\\IDatoRepository.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Repositories\\IDatoRepository.cs",
-              "ToolTip": "C:\\Users\\IsylolXD\\OneDrive\\Documents\\Visual Studio 2022\\Practica4_Grupo4\\Lec11\\WebAPI\\Repositories\\IDatoRepository.cs",
-              "RelativeToolTip": "WebAPI\\Repositories\\IDatoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T08:08:44.011Z"
             }
           ]
         },
