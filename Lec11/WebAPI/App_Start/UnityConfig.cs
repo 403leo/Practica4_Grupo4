@@ -16,6 +16,8 @@ namespace WebAPI
             container.RegisterType<IChisteService, ChisteService>();
             container.RegisterType<IDatoRepository, DatoRepository>();
             container.RegisterType<IDatoService, DatoService>();
+            container.RegisterType<IAdivinanzaRepository, AdivinanzaRepository>();
+            container.RegisterType<IAdivinanzaService, AdivinanzaService>();
 
             GlobalConfiguration.Configuration.DependencyResolver = new UnityDependencyResolver(container);
         }

@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "AdivinanzasApp";
+}
+
+<h2>Index</h2>
+
+<div class="container card">
+    <h1 class="card-title">¡Pon a prueba tu ingenio con nuestras Adivinanzas!</h1>
+
+    <div id="adivinanza-random-section">
+        <h2>Adivinanza aleatoria</h2>
+        <p id="adivinanza-random"></p>
+        <input type="text" id="respuesta-input" class="form-control" placeholder="Escribe tu respuesta aquí">
+        <button id="btnEnviarRespuesta" class="btn btn-success">Enviar Respuesta</button>
+        <p id="resultado-respuesta"></p>
+        <button id="btnAdivinanzaRandom" class="btn btn-primary">Nueva Adivinanza</button>
+    </div>
+
+    <div id="adivinanza-list-section">
+        <h2>Todas las Adivinanzas</h2>
+        <ul id="adivinanzas-list"></ul>
+    </div>
+</div>
+
+<script src="~/Scripts/jquery-3.7.1.min.js"></script>
+<script src="~/Scripts/appAdivinanza.js"></script>
+
