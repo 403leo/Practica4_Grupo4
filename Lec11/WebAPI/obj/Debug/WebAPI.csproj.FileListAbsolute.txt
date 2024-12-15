@@ -292,3 +292,201 @@ C:\Users\cesar\Source\Repos\Practica4_Grupo4\Lec11\WebAPI\obj\Debug\WebAPI.cspro
 C:\Users\cesar\Source\Repos\Practica4_Grupo4\Lec11\WebAPI\obj\Debug\WebAPI.csproj.Up2Date
 C:\Users\cesar\Source\Repos\Practica4_Grupo4\Lec11\WebAPI\obj\Debug\WebAPI.dll
 C:\Users\cesar\Source\Repos\Practica4_Grupo4\Lec11\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\WebAPI.dll.config
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\WebAPI.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\WebAPI.pdb
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\csc.exe
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\csc.rsp
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\csi.exe
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\csi.rsp
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\System.Buffers.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\System.Memory.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\vbc.exe
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\Newtonsoft.Json.Bson.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Buffers.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Memory.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Numerics.Vectors.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Cors.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Http.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Razor.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\Unity.Abstractions.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\Unity.Container.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\Unity.WebApi.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\WebActivatorEx.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\WebGrease.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\Newtonsoft.Json.Bson.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Buffers.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Memory.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Numerics.Vectors.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Http.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Razor.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\Unity.Abstractions.pdb
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\Unity.Container.pdb
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Web.Helpers.resources.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Web.Mvc.resources.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Web.Razor.resources.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Web.WebPages.resources.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\obj\Debug\WebAPI.csproj.AssemblyReference.cache
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\obj\Debug\WebAPI.csproj.Up2Date
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\IsylolXD\OneDrive\Documents\Visual Studio 2022\Practica4_Grupo4\Lec11\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\WebAPI.dll.config
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\WebAPI.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\WebAPI.pdb
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\csc.exe
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\csc.rsp
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\csi.exe
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\csi.rsp
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\System.Buffers.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\System.Memory.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\vbc.exe
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\Newtonsoft.Json.Bson.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Buffers.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Memory.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Numerics.Vectors.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Cors.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Http.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Razor.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\Unity.Abstractions.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\Unity.Container.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\Unity.WebApi.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\WebActivatorEx.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\WebGrease.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\Newtonsoft.Json.Bson.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Buffers.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Memory.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Numerics.Vectors.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Http.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Razor.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\Unity.Abstractions.pdb
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\Unity.Container.pdb
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Web.Helpers.resources.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Web.Mvc.resources.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Web.Razor.resources.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Web.WebPages.resources.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\obj\Debug\WebAPI.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\obj\Debug\WebAPI.csproj.Up2Date
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\leona\OneDrive\Documents\PRACTICA4_ISAAC\Practica4_Grupo4\Lec11\WebAPI\obj\Debug\WebAPI.pdb
